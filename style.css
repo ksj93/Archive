@@ -1,3 +1,10 @@
-body {
-  background-color: #00aeef;
+body{
+  background-color: #00ff00
+}
+
+#txt1{
+  font-size: large;
+}
+#txt2{
+  background-color: white;
 }
